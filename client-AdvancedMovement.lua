@@ -1,3 +1,5 @@
+-- GITHUB COMMENT: This is a script I use in various games to easily apply advanced movement mechanics. I usually pair it with screen bobbing effects if it's in first person.
+
 local plr = game.Players.LocalPlayer
 local hum = plr.Character:FindFirstChildOfClass("Humanoid")
 
